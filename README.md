@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshuman1712
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
